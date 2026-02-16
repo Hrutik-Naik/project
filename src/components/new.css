@@ -1,0 +1,277 @@
+*{
+    div{
+    border: 2px solid black;
+    font-family: sans-serif;
+}
+}
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.t-1{
+    flex: 1;
+    border: none;
+}
+.t-2{
+    flex: 1;
+    border: none;
+}
+.t-3{
+    flex: 1;
+    display: flex;
+    background-color: black;
+    border-color: yellow;
+    height: 30px;
+    color: yellow;
+}
+.t-4{
+    flex: 1;
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+.t-5{
+    flex: 1;
+    border: none;
+}
+.t-6{
+    flex: 1;
+    border: none;
+    
+}
+.search-img{
+    width: 20px;
+}
+.t-7{
+    flex: 1;
+    border-color: yellow;
+    height: 50px;
+    color: yellow;
+}
+.t-8{
+    flex: 1;
+    border: none;
+}
+.t-9{
+    flex: 1;
+    border: none;
+}
+
+.middle{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    background-color: black;
+    color: white;
+}
+.left{
+    flex: 1;
+    display: flex;
+    border: none;
+    align-items: center;
+   
+}
+.right{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    align-items: center;
+    padding-left: 170px;
+    margin-left: 50px;
+}
+.r-1{
+    flex: 2;
+    border: none;
+    display: flex;
+    padding-left: 150px;
+}
+.r-2{
+    flex: 1;
+    display: flex;
+}
+.greater{
+    height: 20px;
+    width: 10px;
+}
+
+.r-3{
+    flex: 2;
+    border: none;
+    color: yellow;
+    
+}
+.bottom{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    gap: 10px;
+    padding: 10px;
+    background-color: black;
+    padding-right: 70px;
+}
+.b1{
+    flex: 1;
+    height: 100px;
+    height: 50px;
+    background-color: lightslategray;
+    color: yellow;
+}
+.b2{
+    flex: 1;
+    border: none;
+    height: 50px;
+    background-color: black;
+    color: yellow;
+    border: 2px solid yellow;
+    
+}
+.footer{
+    flex: 3;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    gap: 5px;  
+    background-color: black; 
+}
+.f1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.foot1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: white;
+}
+.ff1{
+    flex: 1;
+    border-radius: 20px;
+    border: none;
+}
+.salim{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin: 7px;
+}
+.g1{
+    position: absolute;
+    color: yellow;
+    background-color: black;
+    width: 50px;
+    margin-top: 330px;
+    margin-left: 10px;
+}
+.f2{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.foot2{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: white;
+}
+.ff2{
+    flex: 1;
+    border-radius: 20px;
+    border: none;
+}
+.sulaiman{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin: 7px;
+}
+.g2{
+    position: absolute;
+    color: yellow;
+    background-color: black;
+    width: 50px;
+    margin-top: 330px;
+    margin-left: 10px;
+}
+.f3{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border:  none;
+}
+.foot3{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: white;
+}
+.ff3{
+    flex: 1;
+    border-radius: 20px;
+    border: none;
+}
+.DJ{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin: 7px;
+}
+.g3{
+    position: absolute;
+    color: yellow;
+    background-color: black;
+    width: 50px;
+    margin-top: 330px;
+    margin-left: 10px;
+}
+.f4{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.foot4{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: white;
+}
+.ff4{
+    flex: 1;
+    border-radius: 20px;
+    border: none;
+}
+.rahul{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin: 7px;
+}
+.g4{
+    position: absolute;
+    color: yellow;
+    background-color: black;
+    width: 50px;
+    margin-top: 330px;
+    margin-left: 10px;
+}
