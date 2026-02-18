@@ -1,4 +1,4 @@
-import New from './components/new'
+import New1 from './components/new1'
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       <div className="app">
 
       </div>
-      <New/>
+      <New1/>
     </>
   )
 }

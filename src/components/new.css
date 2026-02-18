@@ -147,6 +147,7 @@
     border: none;
     gap: 5px;  
     background-color: black; 
+    flex-wrap: wrap;
 }
 .f1{
     flex: 1;

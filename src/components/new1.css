@@ -1,0 +1,125 @@
+*{
+    div{
+         border: 2px solid black; 
+         font-family: sans-serif;
+    }
+}
+.main{
+    max-width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    }
+.top{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: none;
+    padding: 20px;
+}
+.t-l{
+    flex: 1;
+    border: none;
+}
+.logo{
+    height: 70px;
+    width: 100px;
+    padding: 30px;
+}
+.t-m{
+    flex: 1;
+    border: none;
+    padding: 30px;
+}
+.t-r{
+    flex: 1;
+    display: flex;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    border-color: yellow;
+    border-radius: 7px;
+    padding: 30px;
+}
+.bottom{
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: rgb(75, 69, 69);
+    padding: 10px;
+    border-radius: 20px;
+}
+.b-t{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.b1{
+    flex: 1;
+    border: none;
+    
+}
+.b2{
+    flex: 1;
+    border: none;
+}
+.b3{
+    flex: 1;
+    border: none;
+}
+.b4{
+    flex: 1;
+    border: none;
+}
+.b5{
+    flex: 1;
+    border: none;
+}
+.b-b{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.b11{
+    flex: 1;
+    border: none;
+}
+.b12{
+    flex: 1;
+    border: none;
+}
+.b13{
+    flex: 1;
+    border: none;
+}
+.b14{
+    flex: 1;
+    border: none;
+}
+.bar{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    
+    margin-left: 1370px;
+    
+}
+.call{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 615px;
+    left: 35px;
+}
